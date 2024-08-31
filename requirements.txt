@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+colorama
+PyQt5
+aiohttp
+qt-material
